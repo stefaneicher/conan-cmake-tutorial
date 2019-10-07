@@ -1,0 +1,21 @@
+== Conan Make Tutorial
+:toc:
+:toc-placement!:
+
+toc::[]
+
+
+1. Create Hello World project
+2. Add a Dependency
+3. Add a a Google Unittest
+4. Add a a CppuTest Unittest
+4. Add a a Coverage with cmake
+4. Add a Code formatting enforcement
+4. Add Analysis Tool - cppcheck
+4. Add Analysis Tool - Lint
+4. Add Analysis Tool - clang
+4. Add Analysis Tool - cpplint
+4. Add Analysis Tool - sonar
+4. Add Analysis Tool - valgrind
+4. Add Analysis Tool -
+
